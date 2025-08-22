@@ -1,5 +1,3 @@
-rapid51
-=======
 def collectAppPools = { remoteHost, windowsCredentials ->
     // remoteHost: comma-separated string of servers
     // windowsCredentials: Jenkins credential ID (username/password)
